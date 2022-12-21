@@ -49,9 +49,11 @@ The next lineplot shows the correlation between a patients age and their probabi
 - While the lineplot gives the interpretation that infants are at high risk of a stroke, this is only from 13 values that are present in the age column that are less than 20 years of age. It has no significant impact on the risk at early developmental stages.
 
 ---
-![download](https://user-images.githubusercontent.com/107963606/203836561-1b3424ec-a440-4797-9658-816e8d2bc983.png)
+![Screenshot 2022-11-17 213803](https://user-images.githubusercontent.com/107963606/208995807-c75faead-6f63-44d6-a2d9-e6f966197ff3.png)
 
-The scatterplot above shows that when comparing patient's age and bmi and the likelyhood of having a stroke; there seems to be no major significance as only a small minority of patients the age groups of 60-80 have had a stroke.
+
+
+The lineplot above shows that when comparing patient's age and bmi and the likelyhood of having a stroke; there seems to be no major significance as only a small minority of patients the age groups of 60-80 have had a stroke.
 
 ---
 ![download](https://user-images.githubusercontent.com/107963606/203836639-778b6573-b6b1-49f3-af87-4927931ff6a1.png)
