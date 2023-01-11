@@ -25,7 +25,6 @@ Pictured above is a correlation heatmap of all of the features relevant to the p
   - BMI
   - Smoking Status
   - Heart Disease
-
 ---
 
 ##Correlation Visualizations
