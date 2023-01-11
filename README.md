@@ -56,7 +56,8 @@ The next lineplot shows the correlation between a patients age and their probabi
 The lineplot above shows that when comparing patient's age and bmi and the likelyhood of having a stroke; there seems to be no major significance as only a small minority of patients the age groups of 60-80 have had a stroke.
 
 ---
-![download](https://user-images.githubusercontent.com/107963606/203836639-778b6573-b6b1-49f3-af87-4927931ff6a1.png)
+![image](https://user-images.githubusercontent.com/107963606/211882572-e0a4a540-3d41-4ae6-af7b-b235c565bc92.png)
+
 
 There seems to be no major impact that heart disease has on a patients' age and their likelyhood of having a stroke.
 
